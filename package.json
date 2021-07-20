@@ -1,21 +1,33 @@
 {
-    "name": "banana",
-    "displayName": "BananaTheme",
-    "description": "Collaboration of cobal2 and 1337 with small changes, enjoy :)",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Banana Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Banana Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-banana",
+  "displayName": "Dark Banana Theme",
+  "description": "Made out of few themes, enjoy your black+yellow :)",
+  "version": "1.0.0",
+  "publisher": "https://github.com/T-Damer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/T-Damer/dark-banana-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "t-damer",
+    "banana",
+    "yellow"
+  ],
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Banana Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Banana Theme-color-theme.json"
+      }
+    ]
+  }
 }
