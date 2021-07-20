@@ -1,0 +1,21 @@
+{
+    "name": "banana",
+    "displayName": "BananaTheme",
+    "description": "Collaboration of cobal2 and 1337 with small changes, enjoy :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Banana Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Banana Theme-color-theme.json"
+            }
+        ]
+    }
+}
