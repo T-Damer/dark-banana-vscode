@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Bananza",
+  "name": "Banana",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
