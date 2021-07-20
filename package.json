@@ -3,7 +3,8 @@
   "displayName": "Dark Banana Theme",
   "description": "Made out of few themes, enjoy your black+yellow :)",
   "version": "1.0.0",
-  "publisher": "https://github.com/T-Damer",
+  "publisher": "GreatGesture",
+  "icon": "assets/icon_small.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/T-Damer/dark-banana-vscode"
