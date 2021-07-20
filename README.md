@@ -4,4 +4,6 @@
 
 I've created this theme, because I really love yellow+dark combination, but I didn't found good theme on that, so behold!
 
+![example](https://user-images.githubusercontent.com/49658988/126300195-ee72dd86-f195-4c46-b616-279c6c8d583b.png)
+
 **Enjoy!**
